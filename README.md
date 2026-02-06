@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheRight3ous1
 - 👀 I’m interested in Arduino, Minecraft and codiing
-- 🌱 I’m currently learning front end 
-- 💞️ I’m looking to collaborate on css and js
+- 🌱 I’m currently learning circuiting and ROS
+- 💞️ I’m looking to collaborate on any project available 
 - 📫 How to reach me melchizedek489@gmail.com or WhatsApp+2349069686680
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
